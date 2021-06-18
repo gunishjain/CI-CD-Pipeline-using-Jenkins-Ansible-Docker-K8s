@@ -19,7 +19,9 @@ Jenkins and Docker is already setup.
 ### Kubernetes Integrations
 
 [Installing Kubernetes](https://github.com/gunishjain/CI-CD-Pipeline-using-Jenkins-Ansible-Docker-K8s/blob/main/Kubernetes-setup.MD "Installing Kubernetes")
+
 [Integrating K8s with Jenkins ](https://github.com/gunishjain/CI-CD-Pipeline-using-Jenkins-Ansible-Docker-K8s/blob/main/Integrating_Kubernetes_with_Jenkins.MD "Integrating K8s with Jenkins ")
+
 [Integrating K8s with Ansible](https://github.com/gunishjain/CI-CD-Pipeline-using-Jenkins-Ansible-Docker-K8s/blob/main/Integrating_Kubernetes_with_Ansible.MD "Integrating K8s with Ansible")
 
 **Kubernetes Files are also provided in the Kubernetes Folder**
